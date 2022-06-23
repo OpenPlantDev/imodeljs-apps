@@ -160,7 +160,7 @@
     "electron-rebuild": "^1.8.6",
     "env-cmd": "^8.0.2",
     "ignore-styles": "^5.0.1",
-    "jsdom": "^13.0.0",
+    "jsdom": "^16.5.0",
     "jsdom-global": "^3.0.2",
     "materialize-css": "^1.0.0-rc.2",
     "mocha": "^5.2.0",
